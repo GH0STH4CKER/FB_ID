@@ -6,10 +6,8 @@
 
 ------------INSTRUCTIONS (Termux)----------------------
 
->  git clone https://github.com/GH0STH4CKER/FB_ID.git
-
+>  git clone https://github.com/GH0STH4CKER/FB_ID.git <br>
 > cd FB_ID <br>
-> pip install -r requirements.txt
-
-> python3 fbID.py
+> pip install -r requirements.txt <br>
+> python3 fbID.py <br>
 
