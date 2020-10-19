@@ -60,7 +60,7 @@ try:
 
         page_html = data         
         page_soup = bSoup(page_html,"html.parser")
-
+        #GH0STH4CK3R
         names = page_soup.find("div",{"class":"fsxl fwb"})     
 
         print("")
