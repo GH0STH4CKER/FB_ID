@@ -4,7 +4,7 @@
 
 # For Getting Facebook ID Of Any Profile By Username or Url (profile url)
 
-------------INSTRUCTIONS (Termux)----------------------
+------------INSTRUCTIONS ---------------------------
 
 >  git clone https://github.com/GH0STH4CKER/FB_ID.git <br>
 > cd FB_ID <br>
